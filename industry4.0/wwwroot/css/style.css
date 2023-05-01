@@ -1,0 +1,192 @@
+/* master css for industry 4.0 website */
+
+/* Homepage */
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../images/Homepage/background1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+  }
+.fw-light
+{
+  font-family: 'Anton', sans-serif;
+  text-shadow: 4px 4px 0px navy, 4px 4px 8px white;
+}
+
+/* homepage technologies */
+.tech
+{
+  position: relative;
+}
+.text-block {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding-left: 2px;
+  padding-right: 2px;
+  visibility: hidden;
+  -webkit-transition: visibility 0s, opacity 0.5s linear;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+.text-block-heading
+{
+  text-align: center;
+}
+.text-block-text
+{
+  text-align: center;
+}
+.tech:hover
+{
+  cursor: pointer;
+}
+.tech:hover div
+{
+  visibility: visible;
+}
+
+/* bg2 paralax */
+#bg2 {
+  background-image: url(../images/Homepage/background2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+}
+
+/* sliders */
+.slide-heading
+{
+  font-size: 5rem ;
+}
+
+/* Footer */
+footer a
+{
+  color : rgb(173, 171, 171) !important;
+}
+footer
+{
+  color: rgb(173, 171, 171)
+}
+
+/* footer social icons */
+
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left: 0 !important;
+  padding: 0;
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0 5px;
+}
+
+@media screen and (max-width: 810px) {
+  .text-block
+  {
+    visibility: visible;
+  }
+}
+
+
+
+/* Companies and Organization */
+
+/* master css for industry 4.0 website */
+#bg3 {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../images/Companies/office.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+#bg4 {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../images/Homepage/background2.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+
+
+/* homepage technologies */
+.comp
+{
+  position: relative;
+}
+.comp-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding-left: 2px;
+  padding-right: 2px;
+  visibility: hidden;
+  -webkit-transition: visibility 0s, opacity 0.5s linear;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+.comp-heading
+{
+  font-size: 2rem;
+}
+.comp:hover
+{
+  cursor: pointer;
+}
+.comp:hover div
+{
+  visibility: visible;
+}
+
+/* Emerging technologies styles*/
+
+.showcase .showcase-text {
+    padding: 3rem;
+}
+
+.showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+}
+
+@media (min-width: 768px) {
+    .showcase .showcase-text {
+        padding: 7rem;
+    }
+}
+
+#techno1{
+    background-image: url('../images/Homepage/ai.jpg');
+}
+#techno2 {
+    background-image: url('../images/Homepage/cloud.jpg');
+}
+#techno3 {
+    background-image: url('../images/Homepage/iot.jpg');
+}
+#techno4 {
+    background-image: url('../images/Homepage/blockchain.jpg');
+}
+#techno5 {
+    background-image: url('../images/Homepage/robotics.jpg');
+}
+#techno6 {
+    background-image: url('../images/Homepage/cognitive.jpg');
+}

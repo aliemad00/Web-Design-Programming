@@ -1,0 +1,501 @@
+H:\industry4.0\industry4.0\bin\Debug\net5.0\appsettings.Development.json
+H:\industry4.0\industry4.0\bin\Debug\net5.0\appsettings.json
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.StaticWebAssets.xml
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.exe
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.deps.json
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.runtimeconfig.json
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.runtimeconfig.dev.json
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ref\industry4.0.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.pdb
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.Views.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.Views.pdb
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Humanizer.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.AssemblyReference.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.GeneratedMSBuildEditorConfig.editorconfig
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.AssemblyInfoInputs.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.AssemblyInfo.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.CoreCompileInputs.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.MvcApplicationPartsAssemblyInfo.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.MvcApplicationPartsAssemblyInfo.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorAssemblyInfo.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorAssemblyInfo.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\staticwebassets\industry4.0.StaticWebAssets.Manifest.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\staticwebassets\industry4.0.StaticWebAssets.xml
+H:\industry4.0\industry4.0\obj\Debug\net5.0\scopedcss\bundle\industry4.0.styles.css
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.TagHelpers.input.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.TagHelpers.output.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorCoreGenerate.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Companiesandorganizations.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Contactabout.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Emergingtechnologies.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorTargetAssemblyInfo.cache
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorTargetAssemblyInfo.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.Views.pdb
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.CopyComplete
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.dll
+H:\industry4.0\industry4.0\obj\Debug\net5.0\ref\industry4.0.dll
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.pdb
+H:\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.genruntimeconfig.cache
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Create.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Delete.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Details.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Edit.cshtml.g.cs
+H:\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Index.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\ref\industry4.0.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\appsettings.json
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.StaticWebAssets.xml
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.exe
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.deps.json
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.runtimeconfig.json
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.runtimeconfig.dev.json
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ref\industry4.0.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.Views.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.Views.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.AssemblyInfo.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorAssemblyInfo.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorAssemblyInfo.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\staticwebassets\industry4.0.StaticWebAssets.Manifest.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\staticwebassets\industry4.0.StaticWebAssets.xml
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\scopedcss\bundle\industry4.0.styles.css
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.TagHelpers.input.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.TagHelpers.output.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorCoreGenerate.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Create.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Delete.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Details.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Edit.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Index.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Companiesandorganizations.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Contactabout.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Emergingtechnologies.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorTargetAssemblyInfo.cache
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorTargetAssemblyInfo.cs
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.Views.pdb
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.CopyComplete
+C:\Users\Ali\Desktop\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.genruntimeconfig.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\appsettings.json
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.StaticWebAssets.xml
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.exe
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.deps.json
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.runtimeconfig.json
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.runtimeconfig.dev.json
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ref\industry4.0.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.Views.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\industry4.0.Views.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csprojAssemblyReference.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.AssemblyInfo.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorAssemblyInfo.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorAssemblyInfo.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\staticwebassets\industry4.0.StaticWebAssets.Manifest.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\staticwebassets\industry4.0.StaticWebAssets.xml
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\scopedcss\bundle\industry4.0.styles.css
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.TagHelpers.input.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.TagHelpers.output.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorCoreGenerate.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Create.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Delete.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Details.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Edit.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\FeedbackPosts\Index.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Companiesandorganizations.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Contactabout.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Emergingtechnologies.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorTargetAssemblyInfo.cache
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.RazorTargetAssemblyInfo.cs
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.Views.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.csproj.CopyComplete
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\ref\industry4.0.dll
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.pdb
+C:\Users\Ali\Documents\Assessments\Bachelor of Software Engineering\Second Year\Semester 2\Web designing and Programming\industry4.0\industry4.0\obj\Debug\net5.0\industry4.0.genruntimeconfig.cache

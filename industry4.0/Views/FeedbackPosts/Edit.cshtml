@@ -1,0 +1,106 @@
+﻿@model industry4._0.Models.FeedbackPost
+
+@{
+    ViewData["Title"] = "Edit";
+}
+@if (User.Identity.IsAuthenticated)
+{
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="container-fluid p-1">
+            <h1 style="text-align:center;">Edit</h1>
+
+            <h4 style="text-align:center;">Edit Feedback</h4>
+            <hr />
+            <div class="row" style="margin-left:40%;">
+                <div class="col-md-4">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="ID" />
+                        <div class="form-group">
+                            <label asp-for="Date" class="control-label"></label>
+                            <input asp-for="Date" class="form-control" disabled />
+                            <span asp-validation-for="Date" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Username" class="control-label"></label>
+                            <input asp-for="Username" class="form-control" disabled />
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="HEading" class="control-label"></label>
+                            <input asp-for="HEading" class="form-control" disabled />
+                            <span asp-validation-for="HEading" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="StarRating" class="control-label"></label>
+                            <input asp-for="StarRating" class="form-control" />
+                            <span asp-validation-for="StarRating" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Feedback" class="control-label"></label>
+                            <textarea asp-for="Feedback" class="form-control" ></textarea>
+                            <!--<input asp-for="Feedback" class="form-control" />-->
+                            <span asp-validation-for="Feedback" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Agree" class="control-label"></label>
+                            <input asp-for="Agree" class="form-control" />
+                            <span asp-validation-for="Agree" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Disagree" class="control-label"></label>
+                            <input asp-for="Disagree" class="form-control" />
+                            <span asp-validation-for="Disagree" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CompanyOrganisationName" class="control-label"></label>
+                            <select asp-for="CompanyOrganisationName" class="form-control">
+                                <option value="Amazon">Amazon</option>
+                                <option value="Google">Google</option>
+                                <option value="CSIRO">CSIRO</option>
+                                <option value="IBM">IBM</option>
+                                <option value="Microsoft">Microsoft</option>
+                                <option value="Department of industry , Science, Energy and Resources">Department of industry , Science, Energy and Resources</option>
+                            </select>
+                            <span asp-validation-for="CompanyOrganisationName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" asp-for="canIncreaseAgree" /> @Html.DisplayNameFor(model => model.canIncreaseAgree)
+                            </label>
+                        </div>
+                        <div class="form-group form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" asp-for="canIncreaseDisagree" /> @Html.DisplayNameFor(model => model.canIncreaseDisagree)
+                            </label>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Save" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div>
+                <a  asp-controller="Home" asp-action="Companiesandorganizations">Back to page</a>
+            </div>
+
+            @section Scripts {
+                @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+            }
+        </div>
+    }
+    else
+    {
+        <div style="margin:20%;">
+            <h3 style="text-align:center">Access Denied!</h3>
+        </div>
+    }
+}
+@if (!User.Identity.IsAuthenticated)
+{
+    <div style="margin:20%;">
+        <h3 style="text-align:center">Access Denied!</h3>
+    </div>
+}

@@ -1,0 +1,121 @@
+﻿@model industry4._0.Models.FeedbackPost
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<!-- Full Page Image Header with Vertically Centered Content -->
+<header id="bg3">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center">
+            <div class="col-12 text-center">
+                <h1 class="fw-light">Companies & Organizations</h1>
+                <p class="lead">The Industry 4.0 market is forecasted to reach $1 trillion by 2030, dominated by global technology giants including Alphabet-Google, HP, Samsung, IBM , NEC , Microsoft and more. According to the new 4 volume report by HSRC : Global Industry 4.0 Market & Technologies 2018-2023, the industry 4.0 market will reach $2148 by 2023 - (www.prnewswire.com)</p>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- ======= Our companies Section ======= -->
+<section class="row">
+    <figure class="col-md-6 col-sm-6 col-12 mt-2 comp">
+        <img src="~/images/Companies/ibm.jpg" class="figure-img img-fluid rounded" alt="IBM">
+        <div class="comp-btn text-center">
+            <h5 class="comp-heading">IBM</h5>
+            <a href="www.ibm.com" class="btn btn-primary">Visit Website</a>
+        </div>
+    </figure>
+    <figure class="col-md-6 col-sm-6 col-12 mt-2 comp">
+        <img src="~/images/Companies/amazon.jpg" class="figure-img img-fluid rounded" alt="Amazon">
+        <div class="comp-btn text-center">
+            <h5 class="comp-heading">Amazon</h5>
+            <a href="www.amazon.com" class="btn btn-primary">Visit Website</a>
+        </div>
+    </figure>
+    <figure class="col-md-12 col-sm-12 col-12 comp">
+        <img src="~/images/Companies/google.jpg" class="figure-img img-fluid rounded" alt="Google">
+        <div class="comp-btn text-center">
+            <h5 class="comp-heading">Google</h5>
+            <a href="www.google.com" class="btn btn-primary">Visit Website</a>
+        </div>
+    </figure>
+    <figure class="col-md-6 col-sm-6 col-12 comp">
+        <img src="~/images/Companies/microsoft.jpg" class="figure-img img-fluid rounded" alt="microsoft">
+        <div class="comp-btn text-center">
+            <h5 class="comp-heading">Microsoft</h5>
+            <a href="www.microsoft.com" class="btn btn-primary">Visit Website</a>
+        </div>
+    </figure>
+    <figure class="col-md-6 col-sm-6 col-12 comp">
+        <img src="~/images/Companies/CSIRO.jpg" class="figure-img img-fluid rounded" alt="CSIRO">
+        <div class="comp-btn text-center">
+            <h5 class="comp-heading">CSIRO</h5>
+            <a href="www.csiro.au" class="btn btn-primary ml-3">Visit Website</a>
+        </div>
+    </figure>
+    <figure class="col-md-12 col-sm-12 col-12 comp" style="margin-bottom:0px !important;">
+        <img src="~/images/Companies/department.jpg" class="figure-img img-fluid rounded" style="margin-bottom:0px !important;" alt="Deparment">
+        <div class="comp-btn text-center">
+            <h5 class="comp-heading">Department of industry , Science, Energy and Resources</h5>
+            <a href="www.microsoft.com" class="btn btn-primary ">Visit Website</a>
+        </div>
+    </figure>
+</section><!-- End Our companies Section -->
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="container-fluid p-1" style="margin-bottom:35%;">
+            <h4 style="text-align:center;">FeedBack</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Date)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Username)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.HEading)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.StarRating)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Feedback)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Agree)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Disagree)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CompanyOrganisationName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.canIncreaseAgree)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.canIncreaseDisagree)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div style="">
+        <h1 style="text-align:center">Feedback</h1>
+        <p style="margin-left:32%;">Please <a href="~/Identity/Account/Login?returnUrl=~/FeedbackPosts">login</a> or <a href="~/Identity/Account/Register?returnUrl=~/FeedbackPosts">create an account</a> to post your feedback on this page.</p>
+    </div>
+    <th>
+    </th>
+}
